@@ -1,7 +1,6 @@
 {
     "schema_version": 1,
     "mixin": ["${id}.mixins.json"],
-    "access_widener": "${id}.accesswidener",
     "quilt_loader": {
         "metadata": {
             "license": "MIT",
